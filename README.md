@@ -1,2 +1,0 @@
-# picgoimg
-picgo imgs
